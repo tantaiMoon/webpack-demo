@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+#pic {
+    background-image: url(../images/1.jpg);
+    width: 1000px;
+    height: 700px;
+    transform: rotate(45deg);
+    box-shadow: 4px 5px 0 rgba(0, 0, 0, .5);
+}
+
+body {
+    background-color: #11ffd3;
+    color: #bd27ff;
+}
+
+
+#css {
+    background: #9e0fff;
+    width: 1000px;
+    height: 400px;
+    border-radius: 200px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#pic {
+    background-image: url(../images/1.jpg);
+    width: 1000px;
+    height: 700px;
+    transform: rotate(45deg);
+    box-shadow: 4px 5px 0 rgba(0, 0, 0, .5);
+}
+
+
+.ddd {
+    width: 3px;
+    height: 7px;
+}

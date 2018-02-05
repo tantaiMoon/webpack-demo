@@ -1,0 +1,22 @@
+$colorB: #d9d9d9;
+$colorA: #aaa;
+$urli: '../images/1.jpg';
+$w500: 500px;
+#pic {
+  background: url($urli);
+  -webkit-background-size: cover;
+  background-size: cover;
+  width:$w500;
+  height: 400px;
+}
+#sass {
+  $w500: 500px;
+  width: $w500;
+  height: 400px;
+  background: $colorB;
+  .a {
+    background: $colorA;
+    width: 400px;
+    height: $w500;
+  }
+}
