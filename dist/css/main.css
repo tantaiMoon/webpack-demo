@@ -1,0 +1,33 @@
+/*! created by BIN */
+* {
+  padding: 0;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #75ff60;
+  color: #bd27ff;
+}
+
+#pic {
+  background-image: url(http://127.0.0.1:1117/images/b312488e75d29fcab0f6fead145d89a6.jpg);
+  width: 1000px;
+  height: 700px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 4px 5px 0 rgba(0, 0, 0, .5);
+  box-shadow: 4px 5px 0 rgba(0, 0, 0, .5);
+}
+
+#gogo {
+  width: 200px;
+  height: 300px;
+  background: #000;
+  border-radius: 20px;
+}
+
+#sass {
+  width: 500px;
+  height: 400px;
+  background: #d9d9d9;
+}

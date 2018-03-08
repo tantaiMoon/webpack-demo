@@ -1,0 +1,2 @@
+/*! created by BIN */
+webpackJsonp([0],[,function(e,t,c){"use strict";i(c(2)),i(c(3)),i(c(4));var n=i(c(0));function i(e){return e&&e.__esModule?e:{default:e}}document.getElementById("app").innerHTML='<h1>webapck test</h1><h3>My Webapck Demo</h3><div><div id="css">webpack11 开始配置到基础文件配置</div></div>';(0,n.default)("#css").html('<h1>webapck test</h1><h3>My Webapck Demo</h3><div id="css">webpack11 开始配置到基础文件配置</div>')},function(e,t){},function(e,t){},function(e,t){}],[1]);
